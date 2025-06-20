@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **clojure and k8s**
 
-- ⚡ Fun fact **I run everyday at 4:00 AM**
+- ⚡ Fun fact **I run everyday at 4:00 AM and a fckng love dota**
 
 
 </p>
