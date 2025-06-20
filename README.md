@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lariissadev" alt="lariissadev" /></a> </p>
 
-- 🔭 I’m currently working with **Elastic Search**
+- 🔭 I’m currently working with **ReactJS, NodeJS, k8s, Elastic Search and java**
 
 - 🌱 I’m currently learning **clojure and k8s**
 
