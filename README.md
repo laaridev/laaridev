@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/BKZyG600/Design-sem-nome.png"
+  <img src="https://i.ibb.co/mF81vkqT/Design-sem-nome-removebg-preview.png"
        alt="Larissa Lina"
        width="400px"
        style="border-radius: 12px; border: 2px solid #f973c3;" />
