@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://i.ibb.co/BKZyG600/Design-sem-nome.png"
        alt="Larissa Dev Art"
-       width="460px"
+       width="400px"
        style="border-radius: 12px; border: 2px solid #f973c3;" />
 </p>
 
@@ -14,8 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=🎨+Crafting+interfaces+with+ReactJS...;🛠️+Building+APIs+with+Java+and+NodeJS...;☁️+Deploying+scalable+apps+on+AWS..."
        alt="Typing SVG" />
 </p>
-
----
 
 
 <p align="center">
