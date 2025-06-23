@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Larissa</h2>
 
 <p align="center">
-  <img src="https://s14.gifyu.com/images/bHI4Q.gif" alt="Larissa Typing" style="border-radius: 50%;" />
+  <img src="https://s14.gifyu.com/images/bHIFF.gif"  alt="Larissa Typing" style="border-radius: 50%;" />
 </p>
 
 
