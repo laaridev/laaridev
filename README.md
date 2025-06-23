@@ -1,7 +1,6 @@
 
+<h2 align="center">Hi 👋, I'm larissa </h2>
 
-
-<h1 align="center">Hi 👋, I'm larissa </h1>
 
 <p align="center">
   <img src="https://i.ibb.co/BKZyG600/Design-sem-nome.png"
@@ -16,6 +15,8 @@
 </p>
 
 
+
+
 <p align="center">
 
   <!-- GitHub Stats -->
@@ -28,10 +29,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=larii-js&layout=compact&hide_border=false&border_color=F973C3&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3" width="820px"/>
+<img src="https://ghchart.rshah.org/F973C3/larii-js" alt="GitHub chart" width="820px"  />
+
 </p>
 
-
+---
 
 <p>
 🎯 <strong>What I do:</strong><br/>
@@ -62,8 +64,6 @@
 
 
 ---
-
-## 💻 Technologies I Work With
 
 ### 🖥️ Frontend
 - ReactJS (with Hooks, Context, Redux)
