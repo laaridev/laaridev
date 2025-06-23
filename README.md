@@ -1,6 +1,5 @@
 
-<h2 align="center">Hi 👋, I'm larissa </h2>
-
+<h2 align="center">Hi 👋, I'm Larissa</h2>
 
 <p align="center">
   <img src="https://i.ibb.co/mF81vkqT/Design-sem-nome-removebg-preview.png"
@@ -28,28 +27,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=🎨+Crafting+interfaces+with+ReactJS...;🛠️+Building+APIs+with+Java+and+NodeJS...;☁️+Deploying+scalable+apps+on+AWS..."
-       alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=Crafting+interfaces+with+ReactJS...;Building+APIs+with+Java+and+NodeJS...;Deploying+scalable+apps+on+AWS..." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=larii-js&theme=flat&column=5&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=F973C3&bg_color=FFFFFF&margin-w=10&margin-h=15no-bg=trueno-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=larii-js&theme=flat&column=5&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=F973C3&bg_color=FFFFFF&no-frame=true" />
 </p>
 
 <p align="center">
-
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=larii-js&show_icons=true&hide_border=false&border_color=F973C3&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3" height="180px" />
-
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larii-js&layout=compact&hide_border=false&border_color=F973C3&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3" height="180px"/>
-
-
 </p>
 
 <p align="center">
-<img src="https://ghchart.rshah.org/F973C3/larii-js" alt="GitHub chart" width="820px"  />
-
+  <img src="https://ghchart.rshah.org/F973C3/larii-js" alt="GitHub chart" width="820px" />
 </p>
 
 
@@ -69,10 +60,8 @@
   <img src="https://img.shields.io/badge/PDF%20Parsing-F973C3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
 
-A Java-based application that extracts text from PDF files and automatically indexes the content into **Elasticsearch**.  
-Perfect for building full-text search features across large document repositories or internal archives.
+A Java-based application that extracts text from PDF files and indexes the content into **Elasticsearch** — perfect for building full-text search features across document repositories.
 
----
 
 ### 🖼️ image-text-extractor
 
@@ -88,44 +77,35 @@ Perfect for building full-text search features across large document repositorie
   <img src="https://img.shields.io/badge/Image%20Processing-555?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-A smart Java utility that extracts text from image files and displays both the original image and its parsed content.  
-Great for building OCR-based tools, image search, or lightweight document analyzers.
-
+A smart Java utility that extracts text from image files and displays both the original image and its parsed content — great for building OCR-based tools or lightweight document analyzers.
 
 ---
 
-<p>
-🎯 <strong>What I do:</strong><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• I build modern UIs with <strong>ReactJS</strong> that are clean, accessible, and responsive.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• I develop powerful backend services using <strong>Java (Spring Boot)</strong> and <strong>Node.js</strong>.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• I manage infrastructure and deployments with <strong>AWS</strong>, <strong>Terraform</strong> and <strong>Docker</strong>.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• I work with databases like <strong>PostgreSQL</strong> and <strong>MongoDB</strong>, and data tools like <strong>Kafka</strong> and <strong>Elasticsearch</strong>.
-</p>
+## 👩‍💻 What I Do
 
-<br/>
+🎨 Build modern UIs with **ReactJS** — clean, accessible, responsive.  
+🛠️ Develop backend services using **Java (Spring Boot)** and **Node.js**.  
+☁️ Deploy and manage infrastructure with **AWS**, **Terraform**, **Docker**.  
+🗃️ Work with databases like **PostgreSQL**, **MongoDB**, and tools like **Kafka**, **Elasticsearch**.
 
-<p>
-💡 <strong>Facts:</strong><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• I care about writing clean, maintainable code.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• I value collaboration, continuous learning, and shipping meaningful features.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• I enjoy solving problems from frontend UX to backend performance tuning.
-</p>
+## 💡 Facts
 
-<br/>
+🧼 I care about writing clean, maintainable code.  
+🤝 I value collaboration, continuous learning, and shipping meaningful features.  
+🧩 I enjoy solving problems from frontend UX to backend performance.
 
-<p>
-🌴 <strong>Outside of tech:</strong><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• I love swimming — it's where I recharge. 🏊‍♀️<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• I enjoy walking my dog and exploring the outdoors. 🐶<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;• I'm always up for a beach day. 🌊<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;•  And I play some games like CS and DOTA2. 🎮
-</p>
+## 🌴 Outside of Tech
+
+🏊 I love swimming — it's where I recharge.  
+🐶 I enjoy walking my dog and exploring the outdoors.  
+🏖️ I'm always up for a beach day.  
+🎮 I also play games like **CS** and **DOTA 2**.
 
 
----
+## 🧰 My Tech Stack Overview
 
 ### 🖥️ Frontend
-- ReactJS (with Hooks, Context, Redux)
+- ReactJS (Hooks, Context, Redux)
 - Styled-components & TailwindCSS
 
 ### 🔙 Backend
@@ -139,6 +119,4 @@ Great for building OCR-based tools, image search, or lightweight document analyz
 - Docker, Terraform
 - CI/CD (GitHub Actions, CodePipeline)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F973C3&height=100&section=footer"/>
-</p>
+
