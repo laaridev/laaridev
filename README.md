@@ -1,24 +1,87 @@
-<h1 align="center">Hi 👋, I'm larissa</h1>
-<h3 align="center">A mid software developer from ivon3 and wally-3</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lariissadev&label=Profile%20views&color=0e75b6&style=flat" alt="lariissadev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lariissadev" alt="lariissadev" /></a> </p>
 
-- 🔭 I’m currently working with **ReactJS, NodeJS, k8s, Elastic Search and java**
+<h1 align="center">Hi 👋, I'm larissa </h1>
 
-- 🌱 I’m currently learning **clojure and k8s**
+<p align="center">
+  <img src="https://i.ibb.co/BKZyG600/Design-sem-nome.png"
+       alt="Larissa Dev Art"
+       width="460px"
+       style="border-radius: 12px; border: 2px solid #f973c3;" />
+</p>
 
-- ⚡ Fun fact **I run everyday at 4:00 AM and a fckng love dota**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=🎨+Crafting+interfaces+with+ReactJS...;🛠️+Building+APIs+with+Java+and+NodeJS...;☁️+Deploying+scalable+apps+on+AWS..."
+       alt="Typing SVG" />
+</p>
+
+---
+
+
+<p align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=larii-js&show_icons=true&hide_border=false&border_color=F973C3&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3" height="180px" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larii-js&layout=compact&hide_border=false&border_color=F973C3&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3" height="180px"/>
 
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=larii-js&layout=compact&hide_border=false&border_color=F973C3&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3" width="820px"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lariissadev&show_icons=true&locale=en&layout=compact" alt="lariissadev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lariissadev&show_icons=true&locale=en" alt="lariissadev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lariissadev&" alt="lariissadev" /></p>
+<p>
+🎯 <strong>What I do:</strong><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• I build modern UIs with <strong>ReactJS</strong> that are clean, accessible, and responsive.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• I develop powerful backend services using <strong>Java (Spring Boot)</strong> and <strong>Node.js</strong>.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• I manage infrastructure and deployments with <strong>AWS</strong>, <strong>Terraform</strong> and <strong>Docker</strong>.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• I work with databases like <strong>PostgreSQL</strong> and <strong>MongoDB</strong>, and data tools like <strong>Kafka</strong> and <strong>Elasticsearch</strong>.
+</p>
+
+<br/>
+
+<p>
+💡 <strong>Facts:</strong><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• I care about writing clean, maintainable code.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• I value collaboration, continuous learning, and shipping meaningful features.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• I enjoy solving problems from frontend UX to backend performance tuning.
+</p>
+
+<br/>
+
+<p>
+🌴 <strong>Outside of tech:</strong><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• I love swimming — it's where I recharge. 🏊‍♀️<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• I enjoy walking my dog and exploring the outdoors. 🐶<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• I'm always up for a beach day. 🌊<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;•  And I play some games like CS and DOTA2. 🎮
+</p>
+
+
+---
+
+## 💻 Technologies I Work With
+
+### 🖥️ Frontend
+- ReactJS (with Hooks, Context, Redux)
+- Styled-components & TailwindCSS
+
+### 🔙 Backend
+- Java (Spring Boot)
+- Node.js (Express, NestJS)
+- PostgreSQL, MongoDB
+- Kafka, Elasticsearch
+
+### ☁️ DevOps
+- AWS (EC2, Lambda, S3, RDS)
+- Docker, Terraform
+- CI/CD (GitHub Actions, CodePipeline)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F973C3&height=100&section=footer"/>
+</p>
