@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/larii-js/elastic-pdf-search">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=larii-js&repo=elastic-pdf-search&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3&border_color=F973C3" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=larii-js&repo=elastic-pdf-search&description=hello&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3&border_color=F973C3" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@ A Java-based application that extracts text from PDF files and indexes the conte
 
 <p align="center">
   <a href="https://github.com/larii-js/image-text-extractor">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=larii-js&repo=image-text-extractor&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3&border_color=F973C3" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=larii-js&description=hello&repo=image-text-extractor&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3&border_color=F973C3" />
   </a>
 </p>
 
