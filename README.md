@@ -2,11 +2,9 @@
 <h2 align="center">Hi 👋, I'm Larissa</h2>
 
 <p align="center">
-  <img src="https://i.ibb.co/mF81vkqT/Design-sem-nome-removebg-preview.png"
-       alt="Larissa Lina"
-       width="400px"
-       style="border-radius: 12px; border: 2px solid #f973c3;" />
+  <img src="https://s14.gifyu.com/images/bHI4Q.gif" alt="Larissa Typing" width="200px" style="border-radius: 50%;" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/ReactJS-F973C3?style=for-the-badge&logo=react&logoColor=white" />
