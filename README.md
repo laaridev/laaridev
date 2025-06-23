@@ -10,10 +10,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Streak-Active%20🔥-F973C3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ReactJS-F973C3?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F973C3?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-F973C3?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-F973C3?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-F973C3?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-F973C3?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-F973C3?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-F973C3?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-F973C3?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElasticSearch-F973C3?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-F973C3?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=larii-js&type=png" alt="GitHub Streak" />
 
 
 <p align="center">
