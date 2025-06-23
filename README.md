@@ -23,7 +23,9 @@
   <img src="https://img.shields.io/badge/Node.js-F973C3?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=larii-js&style=for-the-badge&color=F973C3&label=PROFILE+VIEWS" alt="Profile view counter" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=🎨+Crafting+interfaces+with+ReactJS...;🛠️+Building+APIs+with+Java+and+NodeJS...;☁️+Deploying+scalable+apps+on+AWS..."
