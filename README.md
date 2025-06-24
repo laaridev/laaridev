@@ -117,4 +117,8 @@ A smart Java utility that extracts text from image files and displays both the o
 - Docker, Terraform
 - CI/CD (GitHub Actions, CodePipeline)
 
+<p align="center" style="color: #F973C3; font-weight: bold;">
+Made with 💖 by Larissa.
+</p>
+
 
