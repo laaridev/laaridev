@@ -28,14 +28,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=Crafting+interfaces+with+ReactJS...;Building+APIs+with+Java+and+NodeJS...;Deploying+scalable+apps+on+AWS..." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=larii-js&theme=flat&column=5&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=F973C3&bg_color=FFFFFF&no-frame=true" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larii-js&show_icons=true&hide_border=false&border_color=F973C3&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larii-js&layout=compact&hide_border=false&border_color=F973C3&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3" height="180px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=larii-js&theme=flat&column=5&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=DB5D8C&text_color=DB5D8C&bg_color=FFF5FA&margin-w=15&margin-h=15" />
 </p>
+
+
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=larii-js&title_color=DB5D8C&show_icons=true&icon_color=DB5D8C&ring_color=DB5D8C&bg_color=FFF5FA&text_color=DB5D8C&rank_icon=github&border_radius=10&card_height=220" />
+  <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=larii-js&theme=default&currStreakNum=DB5D8C&fire=DB5D8C&currStreakLabel=DB5D8C&background=FFF5FA&sideNums=DB5D8C&sideLabels=DB5D8C&dates=DB5D8C&ring=DB5D8C&border_radius=10&card_height=205" />
+</div>
+
+<div align="center">
+  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larii-js&layout=compact&text_color=DB5D8C&bg_color=FFF5FA&card_width=800&title_color=DB5D8C&border_radius=10" />
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/F973C3/larii-js" alt="GitHub chart" width="820px" />
