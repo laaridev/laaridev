@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=larii-js&style=for-the-badge&color=F973C3&label=PROFILE+VIEWS" alt="Profile view counter" />
+  <img src="https://komarev.com/ghpvc/?username=laaridev&style=for-the-badge&color=F973C3&label=PROFILE+VIEWS" alt="Profile view counter" />
 </p>
 
 <p align="center">
@@ -30,24 +30,24 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=larii-js&theme=flat&column=5&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=DB5D8C&text_color=DB5D8C&bg_color=FFF5FA&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=laaridev&theme=flat&column=5&rank=SSS,SS,S,AAA,AA,A,B,C&title_color=DB5D8C&text_color=DB5D8C&bg_color=FFF5FA&margin-w=15&margin-h=15" />
 </p>
 
 
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=larii-js&title_color=DB5D8C&show_icons=true&icon_color=DB5D8C&ring_color=DB5D8C&bg_color=FFF5FA&text_color=DB5D8C&rank_icon=github&border_radius=10&card_height=220" />
-  <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=larii-js&theme=default&currStreakNum=DB5D8C&fire=DB5D8C&currStreakLabel=DB5D8C&background=FFF5FA&sideNums=DB5D8C&sideLabels=DB5D8C&dates=DB5D8C&ring=DB5D8C&border_radius=10&card_height=205" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=laaridev&title_color=DB5D8C&show_icons=true&icon_color=DB5D8C&ring_color=DB5D8C&bg_color=FFF5FA&text_color=DB5D8C&rank_icon=github&border_radius=10&card_height=220" />
+  <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=laaridev&theme=default&currStreakNum=DB5D8C&fire=DB5D8C&currStreakLabel=DB5D8C&background=FFF5FA&sideNums=DB5D8C&sideLabels=DB5D8C&dates=DB5D8C&ring=DB5D8C&border_radius=10&card_height=205" />
 </div>
 
 <div align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larii-js&layout=compact&text_color=DB5D8C&bg_color=FFF5FA&card_width=800&title_color=DB5D8C&border_radius=10" />
+  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaridev&layout=compact&text_color=DB5D8C&bg_color=FFF5FA&card_width=800&title_color=DB5D8C&border_radius=10" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/F973C3/larii-js" alt="GitHub chart" width="820px" />
+  <img src="https://ghchart.rshah.org/F973C3/laaridev" alt="GitHub chart" width="820px" />
 </p>
 
 
@@ -56,8 +56,8 @@
 ### 📂 elastic-pdf-search
 
 <p align="center">
-  <a href="https://github.com/larii-js/elastic-pdf-search">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=larii-js&repo=elastic-pdf-search&description=hello&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3&border_color=F973C3" />
+  <a href="https://github.com/laaridev/elastic-pdf-search">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=laaridev&repo=elastic-pdf-search&description=hello&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3&border_color=F973C3" />
   </a>
 </p>
 
@@ -73,8 +73,8 @@ A Java-based application that extracts text from PDF files and indexes the conte
 ### 🖼️ image-text-extractor
 
 <p align="center">
-  <a href="https://github.com/larii-js/image-text-extractor">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=larii-js&description=hello&repo=image-text-extractor&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3&border_color=F973C3" />
+  <a href="https://github.com/laaridev/image-text-extractor">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=laaridev&description=hello&repo=image-text-extractor&bg_color=FFFFFF&title_color=F973C3&text_color=F973C3&icon_color=F973C3&border_color=F973C3" />
   </a>
 </p>
 
