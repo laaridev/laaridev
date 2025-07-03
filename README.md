@@ -104,7 +104,7 @@ A smart Java utility that extracts text from image files and displays both the o
 ## 🌴 Outside of Tech
 
 🏊 I love swimming — it's where I recharge.  
-🐶 I enjoy walking my dog and exploring the outdoors.  
+🐶 I enjoy walking w my dog and exploring the outdoors.  
 🏖️ I'm always up for a beach day.  
 🎮 I also play games like **CS** and **DOTA 2**.
 
