@@ -5,6 +5,9 @@
   <img src="./larissa.gif" style="border-radius: 50%;" alt="Larissa typing" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=Crafting+interfaces+with+ReactJS...;Building+APIs+with+Java+and+NodeJS...;Deploying+scalable+apps+on+AWS..." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ReactJS-F973C3?style=for-the-badge&logo=react&logoColor=white" />
@@ -24,9 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=laaridev&style=for-the-badge&color=F973C3&label=PROFILE+VIEWS" alt="Profile view counter" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=Crafting+interfaces+with+ReactJS...;Building+APIs+with+Java+and+NodeJS...;Deploying+scalable+apps+on+AWS..." alt="Typing SVG" />
-</p>
+
 
 
 
