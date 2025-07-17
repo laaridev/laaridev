@@ -29,9 +29,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laaridev&theme=flat&column=5&rank=SSS,SS,S,AAA,AA,B,C&title_color=DB5D8C&text_color=DB5D8C&bg_color=FFF5FA&margin-w=15&margin-h=15" />
-</p>
+
 
 
 
