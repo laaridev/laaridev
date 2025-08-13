@@ -1,12 +1,11 @@
-
-<h2 align="center">Hi 👋, I'm Larissa</h2>
+<h2 align="center">📜 Larissa: escrevendo commits e capítulos.</h2>
 
 <p align="center">
-  <img src="./larissa.gif" style="border-radius: 50%;" alt="Larissa typing" />
+  <img src="./larissa.gif" style="border-radius: 50%;" alt="Larissa digitando" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=Crafting+interfaces+with+ReactJS...;Building+APIs+with+Java+and+NodeJS...;Deploying+scalable+apps+on+AWS..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=Criando+interfaces+com+ReactJS...;Construindo+APIs+com+Java+e+NodeJS...;Publicando+apps+escaláveis+na+AWS..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,15 +23,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laaridev&style=for-the-badge&color=F973C3&label=PROFILE+VIEWS" alt="Profile view counter" />
+  <img src="https://komarev.com/ghpvc/?username=laaridev&style=for-the-badge&color=F973C3&label=VISUALIZAÇÕES+DE+PERFIL" alt="Contador de visualizações de perfil" />
 </p>
-
-
-
-
-
-
-
 
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=laaridev&title_color=DB5D8C&show_icons=true&icon_color=DB5D8C&ring_color=DB5D8C&bg_color=FFF5FA&text_color=DB5D8C&rank_icon=github&border_radius=10&card_height=220" />
@@ -46,11 +38,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/F973C3/laaridev" alt="GitHub chart" width="820px" />
+  <img src="https://ghchart.rshah.org/F973C3/laaridev" alt="Gráfico do GitHub" width="820px" />
 </p>
 
-
-## 💼 Projects I'm Proud Of
+## 💼 Projetos dos quais me orgulho
 
 ### 📂 elastic-pdf-search
 
@@ -63,11 +54,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDF%20Parsing-F973C3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <img src="https://img.shields.io/badge/Extra%C3%A7%C3%A3o%20de%20PDF-F973C3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
 
-A Java-based application that extracts text from PDF files and indexes the content into **Elasticsearch** — perfect for building full-text search features across document repositories.
-
+Uma ferramenta em Java que extrai texto de PDFs e envia direto para o **Elasticsearch** — perfeita para criar buscas rápidas e precisas em repositórios de documentos.
 
 ### 🖼️ image-text-extractor
 
@@ -80,35 +70,34 @@ A Java-based application that extracts text from PDF files and indexes the conte
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/OCR-F973C3?style=for-the-badge&logo=tesseract&logoColor=white" />
-  <img src="https://img.shields.io/badge/Image%20Processing-555?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Processamento%20de%20Imagens-555?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-A smart Java utility that extracts text from image files and displays both the original image and its parsed content — great for building OCR-based tools or lightweight document analyzers.
+Um utilitário Java leve que captura texto de imagens e mostra tanto a imagem original quanto o texto extraído — ótimo para criar ferramentas rápidas de OCR ou análises simples de documentos.
 
 ---
 
-## 👩‍💻 What I Do
+## 👩‍💻 O que eu faço
 
-🎨 Build modern UIs with **ReactJS** — clean, accessible, responsive.  
-🛠️ Develop backend services using **Java (Spring Boot)** and **Node.js**.  
-☁️ Deploy and manage infrastructure with **AWS**, **Terraform**, **Docker**.  
-🗃️ Work with databases like **PostgreSQL**, **MongoDB**, and tools like **Kafka**, **Elasticsearch**.
+🎨 Desenvolvo interfaces modernas com **ReactJS** — limpas, intuitivas e responsivas.  
+🛠️ Construo serviços backend usando **Java (Spring Boot)** e **Node.js**.  
+☁️ Configuro e gerencio infraestrutura na **AWS**, com **Terraform** e **Docker**.  
+🗃️ Trabalho com bancos como **PostgreSQL** e **MongoDB**, além de ferramentas como **Kafka** e **Elasticsearch**.
 
-## 💡 Facts
+## 💡 Sobre mim
 
-🧼 I care about writing clean, maintainable code.  
-🤝 I value collaboration, continuous learning, and shipping meaningful features.  
-🧩 I enjoy solving problems from frontend UX to backend performance.
+🧼 Gosto de escrever código limpo e fácil de manter.  
+🤝 Acredito no trabalho em equipe, no aprendizado constante e em entregar funcionalidades que realmente importam.  
+🧩 Adoro resolver problemas — seja deixando a experiência de uso mais agradável ou otimizando desempenho no backend.
 
-## 🌴 Outside of Tech
+## 🌴 Fora da tecnologia
 
-🏊 I love swimming — it's where I recharge.  
-🐶 I enjoy walking w my dog and exploring the outdoors.  
-🏖️ I'm always up for a beach day.  
-🎮 I also play games like **CS** and **DOTA 2**.
+🏊 Nadar é meu jeito de recarregar as energias.  
+🐶 Curto passear com meu cachorro e explorar lugares novos.  
+🏖️ Não resisto a um dia de praia.  
+🎮 Adoro jogar no meu tempo livre (The Sims 4, Dota 2, Valorant).
 
-
-## 🧰 My Tech Stack Overview
+## 🧰 Stack de tecnologias
 
 ### 🖥️ Frontend
 - ReactJS (Hooks, Context, Redux)
@@ -124,9 +113,4 @@ A smart Java utility that extracts text from image files and displays both the o
 - AWS (EC2, Lambda, S3, RDS)
 - Docker, Terraform
 - CI/CD (GitHub Actions, CodePipeline)
-
-<p align="center" style="color: #F973C3; font-weight: bold;">
-Made with 💖 by Larissa.
-</p>
-
 
