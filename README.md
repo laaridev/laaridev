@@ -1,4 +1,4 @@
-<h2 align="center">📜 Larissa: escrevendo commits e capítulos.</h2>
+<h2 align="center">Hello world, I’m Lari 🖤</h2>
 
 <p align="center">
   <img src="./larissa.gif" style="border-radius: 50%;" alt="Larissa digitando" />
