@@ -1,8 +1,5 @@
 <h2 align="center">Hello world, I’m Lari 🖤</h2>
 
-<p align="center">
-  <img src="./larissa.gif" style="border-radius: 50%;" alt="Larissa digitando" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=Criando+interfaces+com+ReactJS...;Construindo+APIs+com+Java+e+NodeJS...;Publicando+apps+escaláveis+na+AWS..." alt="Typing SVG" />
