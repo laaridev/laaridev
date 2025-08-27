@@ -38,7 +38,7 @@
   <img src="https://ghchart.rshah.org/F973C3/laaridev" alt="Gráfico do GitHub" width="820px" />
 </p>
 
-## 💼 Projetos dos quais me orgulho
+## 💼 Pequenos projetos dos quais me orgulho
 
 ### 📂 elastic-pdf-search
 
