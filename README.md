@@ -92,7 +92,7 @@ Um utilitário Java leve que captura texto de imagens e mostra tanto a imagem or
 🏊 Nadar é meu jeito de recarregar as energias.  
 🐶 Curto passear com meu cachorro e explorar lugares novos.  
 🏖️ Não resisto a um dia de praia.  
-🎮 Adoro jogar no meu tempo livre (The Sims 4, Dota 2, Valorant).
+🎮 Adoro jogar no meu tempo livre (The Sims 4, Dota 2, CS).
 
 ## 🧰 Stack de tecnologias
 
