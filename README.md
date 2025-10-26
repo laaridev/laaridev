@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=Criando+interfaces+com+ReactJS...;Construindo+APIs+com+Java+e+NodeJS...;Publicando+apps+escaláveis+na+AWS..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F973C3&width=700&center=true&lines=Criando+interfaces+com+ReactJS...;Construindo+APIs+com+Java+e+NodeJS..." alt="Typing SVG" />
 </p>
 
 <p align="center">
